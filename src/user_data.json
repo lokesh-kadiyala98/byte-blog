@@ -1,0 +1,21 @@
+[
+    {
+        "_id": "1",
+        "name": "Lokesh",
+        "email": "lokesh@gmail.com",
+        "password": "alhomora",
+        "age": "24"
+    }, {
+        "_id": "2",
+        "name": "Rajesh",
+        "email": "rajesh@gmail.com",
+        "password": "alhomora",
+        "age": "25"
+    }, {
+        "_id": "3",
+        "name": "Rajat",
+        "email": "rajat@gmail.com",
+        "password": "alhomora",
+        "age": "23"
+    }
+]
